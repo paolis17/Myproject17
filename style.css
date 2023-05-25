@@ -1,0 +1,92 @@
+*{color:rgb(245, 245, 245); 
+    font-size:20px;
+    font-family: 'Caveat', cursive;
+    font-weight:bold;
+    font-style:italic;
+    line-height:30px;
+    letter-spacing:5px;
+    text-transform:capitalize;
+    text-align:left;
+    text-indent:30px;
+   }
+   *{ background-image: url(Imagen/fondo.jpg);  
+    background-attachment: fixed;
+    background-repeat: repeat;
+   }
+
+   div {
+
+    text-align: center;
+    
+    }
+    .parentElement{
+        font-size:20px;
+      }
+      
+      .childElement {
+        font-size:20px;
+      } 
+      #contenedor {
+        width: 30px;
+        margin: 0 auto;
+        background: #f4f4f4;
+        }
+       
+      #cabecera {
+        width: 800px;
+        margin: 0 auto;
+        }
+       
+      #cuerpo {
+        width: 180px;
+        margin: 30px auto;
+        }
+       
+      #pie  {
+        background: #336;
+        height: 50px;
+        padding-top: 15px;
+        }
+       
+      .clear  {
+        height: 10px;
+        clear: both;
+        background: #f4f4f4;
+        }
+       
+      #imagen  {
+        width: 960px;
+        margin: 0 auto;
+        position: center;
+        }
+       
+      #logo {
+        width: 50px;
+        height: 50px;
+        left: 10px;
+        position: center;
+        background: url(Imagen/Avengers-Logо.png) no-repeat;
+        }
+       
+      #menu {
+        position: absolute;
+        width: 100%;
+        padding: 0;
+        background: url() repeat-x;
+        }
+    
+        
+        *{font-family: 'Caveat', cursive;
+        font-size: 10px;
+        font-weight: bold;
+        font-style: italic;
+        color: #dfef64;
+        background-color: #78e;
+        border-style: solid;
+        border-color: #555;
+        border-width: 2px;
+        margin: 10px;
+        padding: 10px;
+        border-radius: 14px;
+}
+    
